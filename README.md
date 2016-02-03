@@ -1,5 +1,9 @@
 # USD Oracle
 
+> You probably shouldn't use this for anything important.  since it piggy backs
+> on the Oraclize pricing internals it could suddenly change if Oraclize
+> changes their pricing model.
+
 Availabe @ `0x1c68f4f35ac5239650333d291e6ce7f841149937`
 
 This oracle uses the Oraclize it connector contract to derive the price of
@@ -89,6 +93,8 @@ contract.
     }
 ]
 ```
+
+Here's a screenshot from my view of this contract using the Wallet Application.
 
 ![Wallet Screenshot](wallet-screencap.png)
 
