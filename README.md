@@ -53,6 +53,10 @@ contract SellStuff {
 
 ## Contract ABI
 
+This can be used to view the contract using the Ethereum Wallet application or
+really any other Ethereum *thing* that needs an ABI to interact with a
+contract.
+
 ```json
 [
     {
