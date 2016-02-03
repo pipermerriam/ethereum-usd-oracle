@@ -90,6 +90,7 @@ contract.
 ]
 ```
 
+![Wallet Screenshot](wallet-screencap.png)
 
 ## Verifying the source
 
